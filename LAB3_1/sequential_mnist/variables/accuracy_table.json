@@ -1,1 +1,50 @@
-{"rnn_seq_mnist": {"training_accuracy_mean": 0.39903178418803414, "training_accuracy_std": 0.04037131894211016, "test_accuracy_mean": 0.40133634868421053, "test_accuracy_std": 0.03460252556727745}, "lstm_seq_mnist": {"training_accuracy_mean": 0.9259915865384615, "training_accuracy_std": 0.041518066858795596, "test_accuracy_mean": 0.9243832236842107, "test_accuracy_std": 0.04214340289538302}, "gru_seq_mnist": {"training_accuracy_mean": 0.9425647702991453, "training_accuracy_std": 0.03019879549669112, "test_accuracy_mean": 0.9409128289473685, "test_accuracy_std": 0.027277307854995908}, "rnn_permuted_mnist": {"training_accuracy_mean": 0.6098724626068376, "training_accuracy_std": 0.015637687521806356, "test_accuracy_mean": 0.61484375, "test_accuracy_std": 0.021497444321879677}, "antisymmetric_rnn_seq_mnist": {"training_accuracy_mean": 0.6714910523504274, "training_accuracy_std": 0.01752997165844483, "test_accuracy_mean": 0.6799753289473685, "test_accuracy_std": 0.01585305779459319}}
+{
+  "rnn_seq_mnist": {
+    "training_accuracy_mean": 0.39903178418803414,
+    "training_accuracy_std": 0.04037131894211016,
+    "test_accuracy_mean": 0.40133634868421053,
+    "test_accuracy_std": 0.03460252556727745
+  },
+  "lstm_seq_mnist": {
+    "training_accuracy_mean": 0.9259915865384615,
+    "training_accuracy_std": 0.041518066858795596,
+    "test_accuracy_mean": 0.9243832236842107,
+    "test_accuracy_std": 0.04214340289538302
+  },
+  "gru_seq_mnist": {
+    "training_accuracy_mean": 0.9425647702991453,
+    "training_accuracy_std": 0.03019879549669112,
+    "test_accuracy_mean": 0.9409128289473685,
+    "test_accuracy_std": 0.027277307854995908
+  },
+  "antisymmetric_rnn_seq_mnist": {
+    "training_accuracy_mean": 0.6714910523504274,
+    "training_accuracy_std": 0.01752997165844483,
+    "test_accuracy_mean": 0.6799753289473685,
+    "test_accuracy_std": 0.01585305779459319
+  },
+  "rnn_permuted_mnist": {
+    "training_accuracy_mean": 0.6098724626068376,
+    "training_accuracy_std": 0.015637687521806356,
+    "test_accuracy_mean": 0.61484375,
+    "test_accuracy_std": 0.021497444321879677
+  },
+  "lstm_permuted_mnist": {
+    "training_accuracy_mean": 0.7112179487179487,
+    "training_accuracy_std": 0.07035245873901629,
+    "test_accuracy_mean": 0.7126644736842105,
+    "test_accuracy_std": 0.07001669681200388
+  },
+  "gru_permuted_mnist": {
+    "training_accuracy_mean": 0.7817307692307692,
+    "training_accuracy_std": 0.032459793770602756,
+    "test_accuracy_mean": 0.7890419407894737,
+    "test_accuracy_std": 0.027907218072774208
+  },
+  "antisymmetric_rnn_permuted_mnist": {
+    "training_accuracy_mean": 0.4996227297008547,
+    "training_accuracy_std": 0.01264944952827538,
+    "test_accuracy_mean": 0.500719572368421,
+    "test_accuracy_std": 0.008603728703551222
+  }
+}
