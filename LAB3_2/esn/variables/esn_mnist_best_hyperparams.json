@@ -1,1 +1,1 @@
-{"hidden_size": 50, "input_scaling": 0.5, "spectral_radius": 0.8, "leakage_rate": 0.2, "sparsity": 0.9, "reg": 1e-05, "transient": null}
+{"hidden_size": 150, "input_scaling": 0.5, "spectral_radius": 0.9, "leakage_rate": 0.2, "sparsity": 0.9, "reg": 1e-05, "transient": null}
