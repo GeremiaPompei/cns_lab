@@ -1,0 +1,10 @@
+{
+  "hidden_state": 128,
+  "n_layers": 2,
+  "bidirectional": true,
+  "epochs": 30,
+  "batch_size": 1024,
+  "lr": 0.001,
+  "recurrent_layer": "torch.nn.modules.rnn.GRU",
+  "temperature": 0.6
+}
